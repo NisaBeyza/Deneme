@@ -1,0 +1,30 @@
+Disease class will consist necessary methods and attributes essential for the class. the attribbutes are following:
+1) Disease name;
+2) Disease ID;
+3) Variety in Castila-La Mancha (per 100);
+4) Variety in Spain per 1000);
+5) First case in Castilla la mancha (year); 
+6) Disease symptom group(r);
+7) Bacterial(b) Viral(v) or hormonal(h);
+8) Infectiousness (y/n);
+9) kinds of infectiousness;
+10) refered age group;
+11) medicines to treat(r);
+12) Patient name(r);
+13) notifying user (r);
+14) vaccine aviability(r);
+15) pandemic/epidemic danger level;
+16) physical preventing regulations;
+17) average duration of toredici in a healthy body;
+18) Symptom name;
+19) Symptom ID;
+20) Symptom frequency;
+21) Symptom reason;
+22) Communicable?(Y/N);
+23) Duration of symptom;
+24) chemical formules used in the treatment of the symptom;
+25) variate of intensivity of symptoms;
+26) In which race the symptoms are most common;
+
+With this 26 attributes and existing as the hugest amoug classes , the Disease class will have methods that calculate
+and return values for the rest of the code running unproblematically
