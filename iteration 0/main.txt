@@ -1,2 +1,0 @@
-The main.java consists the necessary loops, methods, variables and other datas for the correct debuging of the project within the 
-necessary sequence of the codes and classes that are designed by the team.
