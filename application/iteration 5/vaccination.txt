@@ -1,0 +1,18 @@
+this class is designed for registering vaccines on the system. it will have the following attributes:
+Vaccination class
+1)Vaccination name
+2)Vaccination ID
+3)Vaccination company 
+4)Disease 
+5)Is it obligatory
+6)Number of requierd doses
+7)contraindications
+8)side effects
+9)minimal age of getting vaccinated
+10)year of release 
+11)minimal required  time between obtaining doses
+12)certificate scheme
+13)percentage of vaccinated people in Castilla-La Mancha
+14)percentage of vaccinated people in Spain
+
+class will host the attributes shown above and the methods for the correct run of the project.
